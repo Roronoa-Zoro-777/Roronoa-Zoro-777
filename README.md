@@ -48,13 +48,13 @@ A data-driven Computer Science Engineer specializing in **Data Analysis, Data Sc
 
 ## ⚡ $\color{#ff0055}\textsf{\Large Live Data Pulse}$
 
-<!-- CUSTOM INJECTED NEON RED GITHUB STATS (Pure Black Background) -->
+<!-- CUSTOM INJECTED NEON RED GITHUB STATS (Fixed Demolab Servers) -->
 <div align="center">
   <a href="https://github.com/Roronoa-Zoro-777">
-    <img src="https://github-readme-stats.vercel.app/api?username=Roronoa-Zoro-777&show_icons=true&hide_border=false&bg_color=000000&title_color=ff0033&icon_color=ff0055&text_color=ff6680&border_color=ff0033&border_radius=10" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Roronoa-Zoro-777&show_icons=true&hide_border=false&bg_color=000000&title_color=ff0033&icon_color=ff0055&text_color=ff6680&border_color=ff0033&border_radius=10&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Roronoa-Zoro-777">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roronoa-Zoro-777&hide_border=false&background=000000&ring=ff0033&fire=ff0055&currStreakNum=ff0033&currStreakLabel=ff6680&sideNums=ff0033&sideLabels=ff6680&dates=ff6680&border=ff0033&stroke=ff0033&border_radius=10" alt="GitHub Streak" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=Roronoa-Zoro-777&hide_border=false&background=000000&ring=ff0033&fire=ff0055&currStreakNum=ff0033&currStreakLabel=ff6680&sideNums=ff0033&sideLabels=ff6680&dates=ff6680&border=ff0033&stroke=ff0033&border_radius=10" alt="GitHub Streak" width="48%" />
   </a>
 </div>
 
