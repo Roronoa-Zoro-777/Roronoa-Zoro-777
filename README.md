@@ -11,22 +11,22 @@
 <!-- NETWORKING COMMAND CENTER -->
 <div align="center">
   <a href="https://linkedin.com/in/rahul-b-5780ba354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:rahulbavigadda2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/rahul_bavigadda_2004"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Roronoa-Zoro-777&icon=3&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <a href="mailto:rahulbavigadda2004@gmail.com"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/rahul_bavigadda_2004"><img src="https://img.shields.io/badge/Instagram-bb9af7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Roronoa-Zoro-777&icon=3&color=7dcfff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
-<!-- DYNAMIC TYPING SUBTITLE (fixed: migrated off the dead herokuapp.com domain) -->
+<!-- DYNAMIC TYPING SUBTITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=750&lines=%F0%9F%93%8A+Turning+Raw+Data+into+Decision-Ready+Dashboards;%F0%9F%A7%A0+Building+%26+Deploying+Predictive+ML+Models;%F0%9F%97%84%EF%B8%8F+Engineering+Scalable+ETL+%26+Data+Pipelines;%F0%9F%92%BB+Shipping+Full-Stack+Apps+on+Real+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7dcfff&center=true&vCenter=true&width=750&lines=%F0%9F%93%8A+Turning+Raw+Data+into+Decision-Ready+Dashboards;%F0%9F%A7%A0+Building+%26+Deploying+Predictive+ML+Models;%F0%9F%97%84%EF%B8%8F+Engineering+Scalable+ETL+%26+Data+Pipelines;%F0%9F%92%BB+Shipping+Full-Stack+Apps+on+Real+Data" alt="Typing SVG" />
 </div>
 
 <!-- GLOWING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=50&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=45&section=header" width="100%" />
 
-## 📑 Executive Summary
+## 📑 $\color{#7aa2f7}\textsf{\Large Executive Summary}$
 
 A data-driven Computer Science Engineer specializing in **Data Analysis, Data Science, and Data Engineering** — turning messy raw data into clean pipelines, predictive models, and decision-ready dashboards. Equally comfortable writing the SQL that feeds a warehouse, training the model that scores it, and shipping the full-stack app that puts it in front of users.
 
@@ -44,48 +44,20 @@ A data-driven Computer Science Engineer specializing in **Data Analysis, Data Sc
 </table>
 
 <!-- GLOWING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7dcfff&height=50&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:ff9e64,100:e0af68&height=45&section=header" width="100%" />
 
-## 📊 Live Metrics & KPI Dashboard
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roronoa-Zoro-777&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Analytics Velocity Graph" />
-</div>
-
-<br/>
+## ⚡ $\color{#7dcfff}\textsf{\Large Neon Data Pulse}$
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roronoa-Zoro-777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Language Analytics" />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Roronoa-Zoro-777&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="System KPIs" />
-      </td>
-    </tr>
-  </table>
+  <img src="assets/neon-data-viz.svg" alt="Neon Data Visualization" width="100%" />
 </div>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Roronoa-Zoro-777&theme=tokyonight&hide_border=true" alt="Development Velocity" />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Roronoa-Zoro-777&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repositories" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<sub><i>Note: the public GitHub-stats/streak instances above are shared community services — if a card ever shows as unavailable, it's almost always a temporary rate-limit on their end, not a broken link. Refreshing the page usually fixes it.</i></sub>
+<sub align="center">A living, glowing snapshot of the craft — isometric, animated, always pulsing. (Decorative dashboard art, not live metrics.)</sub>
 
 <!-- GLOWING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,100:7aa2f7&height=50&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0af68,50:9ece6a,100:7dcfff&height=45&section=header" width="100%" />
 
-## 🛠️ Specialized Technical Stack
+## 🛠️ $\color{#bb9af7}\textsf{\Large Specialized Technical Stack}$
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
@@ -164,9 +136,9 @@ A data-driven Computer Science Engineer specializing in **Data Analysis, Data Sc
 </table>
 
 <!-- GLOWING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=50&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:7dcfff&height=45&section=header" width="100%" />
 
-## 💼 Featured Portfolio Projects
+## 💼 $\color{#f7768e}\textsf{\Large Featured Portfolio Projects}$
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -212,9 +184,9 @@ A data-driven Computer Science Engineer specializing in **Data Analysis, Data Sc
 </table>
 
 <!-- GLOWING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=50&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:9ece6a,100:e0af68&height=45&section=header" width="100%" />
 
-## 🚀 Professional Timeline
+## 🚀 $\color{#ff9e64}\textsf{\Large Professional Timeline}$
 
 ```mermaid
 timeline
@@ -229,9 +201,12 @@ timeline
         Data-Driven Applications : Real-Time Geospatial Theatrical Show Ticketing Infrastructure
 ```
 
+<!-- GLOWING CTA BUTTON -->
+<div align="center">
+  <br/>
+  <img src="assets/glow-cta.svg" alt="Let's build something with data" />
+  <br/><br/>
+</div>
+
 <!-- ANIMATED WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=150&section=footer&animation=fadeIn" width="100%" />
-
-<div align="center">
-  <sub>Thanks for stopping by — let's build something with data. 🚀</sub>
-</div>
