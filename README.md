@@ -26,7 +26,7 @@
 <!-- PULSING FLOW DIVIDER (Cyan to Deep Purple) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:4facfe,100:7f00ff&height=45&section=header&animation=twinkling" width="100%" />
 
-## 📑 $\color{#00f2fe}\textsf{\Large Executive Summary}$
+## 📑 Executive Summary
 
 A data-driven Computer Science Engineer specializing in **Data Analysis, Data Science, and Data Engineering** — turning messy raw data into clean pipelines, predictive models, and decision-ready dashboards. Equally comfortable writing the SQL that feeds a warehouse, training the model that scores it, and shipping the full-stack app that puts it in front of users.
 
@@ -46,22 +46,19 @@ A data-driven Computer Science Engineer specializing in **Data Analysis, Data Sc
 <!-- PULSING FLOW DIVIDER (Deep Purple to Pink) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:d500f9,100:ff0844&height=45&section=header&animation=twinkling" width="100%" />
 
-## ⚡ $\color{#d500f9}\textsf{\Large Live Data Pulse}$
+## ⚡ Live Data Pulse
 
-<!-- CUSTOM CYBER-THEMED GITHUB STATS -->
+<!-- CYBER-THEMED DATA VISUALIZATION DASHBOARD -->
 <div align="center">
-  <a href="https://github.com/Roronoa-Zoro-777">
-    <img src="https://github-readme-stats.vercel.app/api?username=Roronoa-Zoro-777&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00f2fe&icon_color=f9d423&text_color=a9b1d6&border_color=7f00ff&border_radius=10&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Roronoa-Zoro-777">
-    <img src="https://streak-stats.demolab.com/?user=Roronoa-Zoro-777&hide_border=false&background=0d1117&ring=00f2fe&fire=ff0844&currStreakNum=f9d423&currStreakLabel=a9b1d6&sideNums=00f2fe&sideLabels=a9b1d6&dates=a9b1d6&border=7f00ff&stroke=7f00ff&border_radius=10" alt="GitHub Streak" width="48%" />
-  </a>
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Neon Data Dashboard" width="100%" />
+  <br/><br/>
+  <sub><i>A dynamic snapshot of analytical dashboards and raw data transformation.</i></sub>
 </div>
 
 <!-- PULSING FLOW DIVIDER (Pink to Gold) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0844,50:ff5e62,100:f9d423&height=45&section=header&animation=twinkling" width="100%" />
 
-## 🛠️ $\color{#ff0844}\textsf{\Large Specialized Technical Stack}$
+## 🛠️ Specialized Technical Stack
 
 <table border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
@@ -111,7 +108,7 @@ A data-driven Computer Science Engineer specializing in **Data Analysis, Data Sc
 <!-- PULSING FLOW DIVIDER (Gold to Vibrant Orange) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d423,50:ff9e64,100:ff0844&height=45&section=header&animation=twinkling" width="100%" />
 
-## 💼 $\color{#f9d423}\textsf{\Large Featured Portfolio Projects}$
+## 💼 Featured Portfolio Projects
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -155,7 +152,7 @@ A data-driven Computer Science Engineer specializing in **Data Analysis, Data Sc
 <!-- PULSING FLOW DIVIDER (Orange back to Cyan) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0844,50:4facfe,100:00f2fe&height=45&section=header&animation=twinkling" width="100%" />
 
-## 🚀 $\color{#00f2fe}\textsf{\Large Engineering Trajectory}$
+## 🚀 Engineering Trajectory
 
 ```mermaid
 timeline
